@@ -1,0 +1,21 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;700;900&family=Poppins&display=swap');
+}
+.products{
+    font-size: 8px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+   
+}
+.description{
+    font-size: 7px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+    }
+
+.body{
+    border: 0.05px solid black;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    background-color: blanchedalmond;
+}
